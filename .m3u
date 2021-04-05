@@ -208,5 +208,5 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 
-#EXTINF:-1 tvg-logo="Kapamilya_Online_Live_Logo.png" group-title="Local",Kapamilya Online Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jayreyn22/jayar/main/Kapamilya_Online_Live_Logo.png" group-title="Local",Kapamilya Online Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617651207/ei/pxFrYIm_LIjc4AKxvLj4Cg/ip/112.198.104.168/id/xmQp4wyOhTo.1/source/yt_live_broadcast/requiressl/yes/tx/24011361/txs/24011361%2C24011362%2C24011363/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBT_S2-3gjBIwJRxDEUrt5_VCUnACkxpHh1QcHWFJnBAiAVtbDsDQAtl83Dr84r_B1hFL_TCsYZxZfTYUowojZiXw%3D%3D/file/index.m3u8
