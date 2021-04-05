@@ -207,6 +207,3 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movieloversmontana.com/wp-content/uploads/2017/11/Movie-Lovers-Logo-Square2.png" group-title="Movie",MovieLover
-https://hls4x.vidcloud9.com/load/hls/iqcPQzWamaqy0gdQG4pEFA/1617641133/338127/93ddaae44debe82f384e9e37239362cf/ep.0.1615797176.m3u8
