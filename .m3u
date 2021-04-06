@@ -91,7 +91,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="https://fontlot.com/wp-content/uploads/2020/07/National-Geographic-Font.jpg" group-title="Lifestyle",NAT GEO
+#EXTINF:-1 group-title="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo-500x226.png" group-title="Lifestyle",NAT GEO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
 
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/SBF_290x170.png" group-title="Lifestyle",SBS Food
@@ -164,7 +164,7 @@ https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/220px-FOX_wordmark-orange.svg.png" group-title="Movies",FOX
+#EXTINF:-1 tvg-id="https://1000logos.net/wp-content/uploads/2021/02/Fox-News-Logo-1990-500x339.png" group-title="Movies",FOX
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
