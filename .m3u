@@ -63,6 +63,9 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/982/982/png-clipart-logo-nickelodeon-arabia-television-bumper-nicktoons-splat-uk.png" group-title="Kids",Nickelodeon
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
@@ -88,6 +91,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 group-title="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="Lifestyle",NAT GEO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/SBF_290x170.png" group-title="Lifestyle",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 
@@ -111,6 +117,9 @@ https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jwcphJJ/nba.jpg" group-title="Sports",NBA TV Philippines
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" group-title="Sports",PBA RUSH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -161,6 +170,9 @@ https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="Movies",FOX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
+
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -196,6 +208,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" tvg-url="" group-title="",Central TV HD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
