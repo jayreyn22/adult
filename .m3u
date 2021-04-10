@@ -172,31 +172,6 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://www.pay2easy.com/uploads/3046-&%20Prive%20HD.png" tvg-url="" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
