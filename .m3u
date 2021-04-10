@@ -54,14 +54,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1200px-Nickelodeon_Logo.svg.png" group-title="Kids",Nickelodeon
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
