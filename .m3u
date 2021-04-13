@@ -102,7 +102,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
