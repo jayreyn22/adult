@@ -6,7 +6,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="Local",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/PTVLogo2017.png/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="News",PTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/f/f4/PTVLogo2017.png/revision/latest?cb=20200323054430/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="News",PTV
 https://stream-04.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwKtbpLlwPD29xt8JpfuPqYU)/dm/3/x5cr6b9/d/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
