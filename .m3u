@@ -209,8 +209,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 
-#EXTINF:-1 tvg-logo="https://asset-ent.abs-cbn.com/updates/entertainment/2020/08/01/NOW-STREAMING-KOL.png" group-title="Local",Kapamilya Online Live
+##EXTINF:-1 tvg-logo="https://asset-ent.abs-cbn.com/updates/entertainment/2020/08/01/NOW-STREAMING-KOL.png" group-title="Local",Kapamilya Online Live
 https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8?hdnea=st=1618457170~exp=1618457380~acl=/i/kapcha_1@342755/*~id=e48cff65-3836-4865-86f8-c8cf5b7f292f~data=289007~hmac=cc4e3c22a83f437238b1b33edabe84d9cf43799a25f9ce6aa354d2912ed4c808&b=0-1200
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618299997/ei/_fd0YLS5NdWH1d8PmOih0AI/ip/136.158.34.246/id/5JwiJYhcYJI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKctySNDN6p7UHV0N0aOPKdTXxLUmBNLJfCybSj3OGCDAiEAm3qfNUwyaHOSVLHkeZs1WrBQLFeYvdzG-Og3lgmXMx8%3D/file/index.m3u8
