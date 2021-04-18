@@ -212,5 +212,5 @@ https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 ##EXTINF:-1 tvg-logo="https://asset-ent.abs-cbn.com/updates/entertainment/2020/08/01/NOW-STREAMING-KOL.png" group-title="Local",Kapamilya Online Live
 https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8?hdnea=st=1618669557~exp=1618669767~acl=/i/kapcha_1@342755/*~id=e48cff65-3836-4865-86f8-c8cf5b7f292f~data=289007~hmac=dc9077b5cccd866408c04531d75c2d6add1c4e230dfcd582d3be9d58c4ad9fe2&b=0-1200
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
 https://hls3x.vidcloud9.com/load/hls/_ra0LVJtYAniSoLEs9yfmw/1618768610/339577/11191a212f3a07ee914459c94ee801e5/ep.0.1618017521.m3u8
