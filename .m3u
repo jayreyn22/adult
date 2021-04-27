@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1619470578/ei/ktSGYK6TIpLSgQPe76eIDg/ip/136.158.34.147/id/8a_0neGcVuM.1/source/yt_live_broadcast/requiressl/yes/tx/24005205/txs/24005203%2C24005204%2C24005205%2C24005206%2C24005207%2C24005208%2C24005209/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALF0C2iLKzCnDuQ_SaRimpwsRuwovuXfR5_1q9dZV4TgAiAl45GGc0T06Ek81eYQqgiPfRUd2S2-sLMsn-hTluu-jA%3D%3D/file/index.m3u8
+https://video.fmnl17-1.fna.fbcdn.net/hvideo-lla-cln/_nc_cat-100/v/rlnYjUiRoxXrfXe3xgPZi/_nc_ohc-ELYw9argcsAAX_zMAIo/live-dash/dash-abr-ibr-audio/4876974755655614.mpd?_nc_eui2=AeGS7YOML85A1subdLeIEYUhYl_SOPtzHcNiX9I4-3Mdw6qollxUtifChlQF6pOGO7UYTezDiC0P3Dz1Pdi8kOld&_nc_rl=AfBVE4CluWUc2InCgNs&aaf=1&ccb=2-4&ms=m_CT&replica=0&oh=6bb354818faff81a37028c7e2d1bf7a3&oe=6089617E
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="Local",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
