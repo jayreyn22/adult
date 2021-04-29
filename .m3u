@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
 https://video.fmnl17-3.fna.fbcdn.net/hvideo-ftw-prn/_nc_cat-110/v/rqolB11iVgREh5jdr5QhR/_nc_ohc-kqOo3mDL6OsAX9UZKQJ/live-dash/dash-abr-ibr-audio/4883453381674418.mpd?_nc_eui2=AeHdolU40WY-LQsN--iCs6R7wKIsUKLR_w7AoixQotH_Dt68eqiknHlZ3pf2Y8-jutnAuZDS7NR8i792X-9JHXgs&_nc_rl=AfDgQf_ngzbMBtRJ0tU&aaf=1&ccb=2-4&ms=m_CT&replica=0&oh=f75c2503d329090202a620ebd37a6c9b&oe=608BF88F
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="Local",TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 
