@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
-https://video.fmnl17-1.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-101/_nc_pbef-1/v/rNWloEL7w34JhDSKvAg41/_nc_ohc-hDX3giYxb1UAX-MARq3/live-dash/dash-abr-ibr-audio/4895929240426832.mpd?_nc_eui2=AeF2bVLJxeEcab02GONlb8lzz324UX7elbvPfbhRft6Vu0Ce1zhJAwlKOJcPnO_zoqTxbUGH8mzAeLAKfJzaIq22&_nc_rl=AfDSImQ1k98l_7pQP28&ccb=2-4&ms=m_CT&oh=57baafba4d6926b75a2720113e7431d9&oe=6091877D
+https://video.fmnl17-2.fna.fbcdn.net/hvideo-lla-odn/_nc_cat-111/_nc_pbef-1/v/rJ_8PLfmnia-ivcQ7mTgR/_nc_ohc-HtV4lsSOYlAAX-oGoG0/live-dash/dash-abr-ibr-audio/4899080343445055.mpd?_nc_eui2=AeEWu8ojW0ry9BSN62Q4JuWMe6-_nfxroHR7r7-d_GugdJu-fSykYog-U3jL-2M78kGO8rxIkd4pJ8c6iMJGQ_u4&_nc_rl=AfB-Oy_FtcMc4EJYLN8&ccb=2-4&ms=m_CT&oh=3810532a7e9b2cda9f1c2e0351f19669&oe=6092B06C
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
