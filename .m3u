@@ -4,8 +4,12 @@
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="Local",TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="News",DZMM Teleradyo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="Local",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="News",PTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
@@ -64,6 +68,16 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-fr
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Movies",Hallmark Drama
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
@@ -78,16 +92,6 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
