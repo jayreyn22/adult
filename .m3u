@@ -66,6 +66,69 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-fr
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Movies",Hallmark Drama
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network (West)
+http://gooserace.xyz:2052/donna/donna123/1192931
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network FHD
+http://gooserace.xyz:2052/donna/donna123/1192930
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids",Disney Channel
+http://gooserace.xyz:2052/donna/donna123/1192934
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Kids",Disney Channel (West)
+http://gooserace.xyz:2052/donna/donna123/1192936
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids",Disney Junior
+http://gooserace.xyz:2052/donna/donna123/1192938
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids",Disney Junior (West)
+http://gooserace.xyz:2052/donna/donna123/1192941
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids",Disney XD
+http://gooserace.xyz:2052/donna/donna123/1192943
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids",Disney XD (West)
+http://gooserace.xyz:2052/donna/donna123/1192944
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids",Nick Jr. (East)
+http://gooserace.xyz:2052/donna/donna123/1192418
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids",Nick Jr. (West)
+http://gooserace.xyz:2052/donna/donna123/1192419
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Nickelodeon-teen.png" group-title="Kids",Nick Teen
+http://gooserace.xyz:2052/donna/donna123/1192959
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nick Toons
+http://gooserace.xyz:2052/donna/donna123/1192954
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nickelodeon (East)
+http://gooserace.xyz:2052/donna/donna123/1192421
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nickelodeon (West)
+http://gooserace.xyz:2052/donna/donna123/1192422
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",POP
+http://gooserace.xyz:2052/donna/donna123/1192956
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",POP (West)
+http://gooserace.xyz:2052/donna/donna123/1192957
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Starz_Kids_%26_Family_2016.svg" group-title="Kids",Starz Kids & Family
+http://gooserace.xyz:2052/donna/donna123/1192526
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Starz_Kids_%26_Family_2016.svg" group-title="Kids",Starz Kids & Family (West)
+http://gooserace.xyz:2052/donna/donna123/1192527
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/272-2722817_1-tvg-logo-https-tooncast-logo-tooncast.png" group-title="Kids",Tooncast
+http://gooserace.xyz:2052/donna/donna123/2049936
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids",Universal Kids
+http://gooserace.xyz:2052/donna/donna123/1192960
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids",Universal Kids
+http://gooserace.xyz:2052/donna/donna123/1192962
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
@@ -122,6 +185,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logo.wine/a/logo/NBA_TV_Canada/NBA_TV_Canada-Logo.wine.svg" group-title="Sports",CA: NBA TV
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
