@@ -84,10 +84,10 @@ http://gooserace.xyz:2052/donna/donna123/1192938
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Kids",Disney Junior (West)
 http://gooserace.xyz:2052/donna/donna123/1192941
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="Kids",Disney XD
 http://gooserace.xyz:2052/donna/donna123/1192943
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids",Disney XD (West)
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2019/08/disney-xd-vector-logo.png" group-title="Kids",Disney XD (West)
 http://gooserace.xyz:2052/donna/donna123/1192944
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Kids",Nick Jr. (East)
@@ -102,10 +102,10 @@ http://gooserace.xyz:2052/donna/donna123/1192959
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nick Toons
 http://gooserace.xyz:2052/donna/donna123/1192954
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nickelodeon (East)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-logo.png" group-title="Kids",Nickelodeon (East)
 http://gooserace.xyz:2052/donna/donna123/1192421
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",Nickelodeon (West)
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-logo.png" group-title="Kids",Nickelodeon (West)
 http://gooserace.xyz:2052/donna/donna123/1192422
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",POP
@@ -114,19 +114,19 @@ http://gooserace.xyz:2052/donna/donna123/1192956
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids",POP (West)
 http://gooserace.xyz:2052/donna/donna123/1192957
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Starz_Kids_%26_Family_2016.svg" group-title="Kids",Starz Kids & Family
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/0-1838_starz-kids-family-starz-on-demand-logo.png" group-title="Kids",Starz Kids & Family
 http://gooserace.xyz:2052/donna/donna123/1192526
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Starz_Kids_%26_Family_2016.svg" group-title="Kids",Starz Kids & Family (West)
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/0-1838_starz-kids-family-starz-on-demand-logo.png" group-title="Kids",Starz Kids & Family (West)
 http://gooserace.xyz:2052/donna/donna123/1192527
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/272-2722817_1-tvg-logo-https-tooncast-logo-tooncast.png" group-title="Kids",Tooncast
 http://gooserace.xyz:2052/donna/donna123/2049936
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids",Universal Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/5/5c/Universal_Kids.png/revision/latest?cb=20200511224501" group-title="Kids",Universal Kids
 http://gooserace.xyz:2052/donna/donna123/1192960
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids",Universal Kids
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/universalstudios/images/5/5c/Universal_Kids.png/revision/latest?cb=20200511224501" group-title="Kids",Universal Kids
 http://gooserace.xyz:2052/donna/donna123/1192962
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
@@ -172,7 +172,7 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg" group-title="Lifestyle",TV5Monde 
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TV5-Monde.png" group-title="Lifestyle",TV5Monde 
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="Lifestyle",Fashion TV
@@ -187,7 +187,7 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logo.wine/a/logo/NBA_TV_Canada/NBA_TV_Canada-Logo.wine.svg" group-title="Sports",CA: NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/nba_tv_ca.png" group-title="Sports",CA: NBA TV
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
@@ -241,6 +241,3 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="Music",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/31/7a/f9/317af9c954ccf318b24ab8afa7976bae.png" group-title="Kids",CarToons Online
-https://www1900.ff-04.com/token=9PNekF8symrQm7pDDIYVHA/1618770381/136.158.0.0/158/7/61/a4b38f149715e78329224a5a40d9a617-720p.mp4
