@@ -6,22 +6,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="Local",TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="Local",DZMM Teleradyo
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="Local",TV5 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ca07a749e91966b.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="Local",GMA 
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Knowledge-channel.png" group-title="Local",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Jeepneytvnewlogo2015.jpg" group-title="Local",JEEPNEY TV 
-https://dropmb.com/files/9c89e04deed2f1d3a4045a1b8c86883c.mp4
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News",CNN PH 
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
@@ -29,14 +15,8 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="News",PTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
-http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="Movies",Cinemo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest?cb=20201209065132" group-title="Local",PBO 
-https://dropmb.com/files/9c89e04deed2f1d3a4045a1b8c86883c.mp4
 
 #EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Movies",Cinema One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
@@ -92,9 +72,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Cinema" tvg-logo="https://attend.aclib.us/images/events/acld/classic%20cinema.jpg" group-title="Movies",Classic Cinema 
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang 
-http://gooserace.xyz:2052/donna/donna123/2599332
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network (West)
 http://gooserace.xyz:2052/donna/donna123/1192931
@@ -169,18 +146,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local",NET 25
-https://ebc.sytes.net/hls/net25.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 
@@ -217,9 +182,6 @@ http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/nba_tv_ca.png" group-title="Sports",CA: NBA TV
-https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
@@ -228,9 +190,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
