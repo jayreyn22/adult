@@ -1,40 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Knowledge-channel.png" group-title="Local",Knowledge Channel
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="News",CNN PH 
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Movies (720p)
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
-#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-
-#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-url="" group-title="Movies",Wixlar (720p)
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Movies",Warner TV
-http://203.154.243.89:11205/
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Cinema" tvg-logo="https://attend.aclib.us/images/events/acld/classic%20cinema.jpg" group-title="Movies",Classic Cinema 
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41m4pkSRnPL.png/" group-title="Without category", NBA TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:03:38:AC&stream=115302&extension=ts&play_token=hImkHTY4qa
